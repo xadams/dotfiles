@@ -3,6 +3,7 @@ alias sour="source ~/.bash_profile"
 alias caen="ssh oncampus-course.engin.umich.edu"
 alias caenoff="ssh login-course-2fa.engin.umich.edu"
 alias flux="ssh -l xadams flux-login.arc-ts.umich.edu"
+alias bridges="ssh -l adamsa bridges.psc.edu"
 # Directories
 alias xy="cd ~/XylE"
 alias protx='cd ~/XylE/Protonated_xylose/namd'

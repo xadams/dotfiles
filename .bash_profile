@@ -3,7 +3,7 @@ PATH=$PATH:/$HOME/bin
 export tclhome="/Users/xadams/Sugar_Transport_scripts/tcl_scripts"
 export templatehome="/Users/xadams/Sugar_Transport_scripts/templates"
 export subhome="/Users/xadams/Sugar_Transport_scripts/subroutines"
-=======
+
 # Path variables
 conda=$Path:$HOME/miniconda3/bin
 PATH=$PATH:/$HOME/bin
